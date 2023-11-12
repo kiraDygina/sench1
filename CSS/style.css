@@ -1,10 +1,10 @@
-header{width:100% ;
+header{
     background-color: #DA6A00;
        
 
 }
-body{overflow: hidden;
-    margin-top: 0px;margin-left: 0px;margin-right: 0px;margin-bottom: 0px;
+body{
+    margin-top: 0px;margin-left: 0px;margin-right: 0px;
 }
 footer{
     background-color: #14471E;
