@@ -1,8 +1,9 @@
 header{width:100% ;
     background-color: #DA6A00;
+       
 
 }
-body{
+body{overflow: hidden;
     margin-top: 0px;margin-left: 0px;margin-right: 0px;margin-bottom: 0px;
 }
 footer{
